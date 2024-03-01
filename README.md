@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome and thanks for stopping by. I am Nirzaree, a data scientist based in India. I have over 6 years of experience in writing data driven and machine learning algorithms for embedded devices in the areas of wearable tech, electric mobility and IoT. 
+Welcome and thanks for stopping by. I am Nirzaree, a data scientist based in India. I have over 7 years of experience in writing data driven and machine learning algorithms for embedded devices in the areas of wearable tech, electric mobility and IoT. 
 
 My areas of interest are machine learning, algorithms, sensor design and human computer interaction. 
 
