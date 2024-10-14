@@ -9,9 +9,9 @@ I enjoy creative technical and scientific problem solving and enjoy it even furt
 I have a master degree in Embedded Systems from TU, Kaiserslautern, Germany and an undergrad in Electronics Engineering from NIT, Surat, India. 
 
 - 🔭 I’m currently working on a digital platform to enable natural farming in urban vacant land for better food, climate change mitigation and community building.
-- 👯 I’m looking for collaborators on this project so please reach out if the sound of the idea interests you.
-- 🌱 I’m currently learning taking the Udacity DataScientist Nanodegree Program, and learning various specific skills that I haven't had exposure to, so far. 
-- 💬 Ask me about R Shiny, Algorithms for embedded devices, designing novel sensing modalities.
+- 👯 I’m looking for collaborators on this project so please reach out if the idea interests you.
+- 💬 Ask me about building open source data driven tools for sustainability, Algorithms for embedded devices, designing novel sensing modalities.
+- 💻 Python, R, Shiny, AWS. 
 - 📫 How to reach me: Feel free to email me at nirzaree [dot] svnit [at] gmail [dot] com
 - 😄 Pronouns: She/her
 
