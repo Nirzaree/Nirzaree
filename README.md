@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome and thanks for stopping by. I am Nirzaree, a data scientist based in India. I have over 9 years of experience in writing data driven and machine learning algorithms for applications in wearable tech, electric mobility and agriculture. 
+Welcome and thanks for stopping by. I am Nirzaree, a data scientist based in India. I have over 10 years of experience in writing data driven and machine learning algorithms for applications in wearable tech, electric mobility and agriculture. 
 
 My areas of interest are machine learning, algorithms, sensor design and human computer interaction. 
 
